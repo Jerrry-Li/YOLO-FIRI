@@ -1,0 +1,6 @@
+train:  ../coco/data/train_kaist.txt
+val:  ../coco/data/test_kaist.txt
+
+nc: 2
+
+names: ['person', 'people']

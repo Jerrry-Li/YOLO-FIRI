@@ -1,0 +1,6 @@
+train:  ../coco/data/Flir_train.txt
+val:  ../coco/data/Flir_val.txt
+
+nc: 3
+
+names: ['person', 'bicycle','car']
